@@ -2,7 +2,7 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #d0e7ff; /* Pastel blue shade */
+    background-color: #d0e7ff; 
 }
 
 .navbar {
@@ -37,7 +37,7 @@ body, html {
 }
 
 .nav-links a:hover {
-    color: #79a3f4; /* Light blue hover color */
+    color: #79a3f4; 
 }
 
 .scrolled {
@@ -47,15 +47,15 @@ body, html {
 section {
     padding: 100px 20px;
     margin-top: 60px;
-    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for sections */
-    border-radius: 8px; /* Rounded corners for sections */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Light shadow for sections */
-    color: #333; /* Dark text color for readability */
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    color: #333; 
     text-align: center;
 }
 
 h1 {
-    color: #336699; /* Dark blue for headings */
+    color: #336699; 
 }
 
 p {
